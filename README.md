@@ -7,5 +7,5 @@ The deployment image is in the 'deployment_image_oluwatobi' folder
 # Elastic Beanstalk URL
 The project has been deployed as an elastic beanstalk app on AWS.
 Try it out at- http://oluwatobi-image-filter.us-east-1.elasticbeanstalk.com/filteredimage?image_url={{}}
-## **Usage Example**
+## **Usage example**
 http://oluwatobi-image-filter.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://learncodeweb.com/wp-content/uploads/2021/02/How-to-define-variables-in-TypeScript.png
